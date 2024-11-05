@@ -5,9 +5,24 @@
   <li>🧑‍💻 Core Skills: Proficient in [Primary Programming Languages/Technologies], with solid experience in [Frameworks, Libraries, or Tools].</li>
   <li>🚀 Projects: I love contributing to open-source projects and have worked on [mention key personal or professional projects briefly, e.g., “an e-commerce app,” “a real-time chat application”].</li>
   <li>📚 Learning: Always expanding my knowledge base – currently diving into [Current Learning Focus/Technology].</li>
+  <li>💡 Hobbies: Besides coding, I enjoy [mention hobbies related to development or other personal interests, e.g., “exploring new tech, reading tech blogs, and learning about AI”].</li>
 </ul>
 
 </div>
+<h3 align="left">🛠️ Tech Stack</h3>
+<div>Here's what I primarily work with:
+<ul><li>Languages: [e.g., JavaScript, Python, TypeScript]</li>
+  <li>Frameworks: [e.g., React, Node.js, Django]</li>
+  <li>Tools: [e.g., Git, Docker, CI/CD, VSCode]</li>
+</ul>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
 <div align="center">
 <!--   <img height="150" src="https://as2.ftcdn.net/v2/jpg/05/65/89/49/1000_F_565894925_2uEeK024wXiD3jJW3kV27Ov6ZiKC9ioi.jpg"  /> -->
   <img height="150" width="150" src="./panda.png"  />
