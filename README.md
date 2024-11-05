@@ -13,8 +13,8 @@
 <h3 align="left">🛠️ Tech Stack</h3>
 <div>Here's what I primarily work with:
 <ul><li>Languages: Javascript, TypeScript</li>
-  <li>Frameworks: React, React Native,Nestjs, Node.js</li>
-  <li>Tools: Git, Docker, CI/CD, VSCode</li>
+  <li>Frameworks: React, React Native, Nestjs, Node.js</li>
+  <li>Tools: Git, Docker, CI/CD, VSCode, AWS</li>
 </ul>
 </div>
 <div align="left">
@@ -33,6 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+    <img width="12" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+          
           
 </div>
 </div>
