@@ -1,3 +1,13 @@
+<h1 align="center">👋 Hello! I'm Ritesh Maurya</h1>
+<div>
+  I’m a passionate software developer with a keen interest in crafting clean, efficient, and scalable code. I enjoy working across various technologies and building innovative solutions that solve real-world problems. Here’s a bit about me:
+  <ul>
+  <li>🧑‍💻 Core Skills: Proficient in [Primary Programming Languages/Technologies], with solid experience in [Frameworks, Libraries, or Tools].</li>
+  <li>🚀 Projects: I love contributing to open-source projects and have worked on [mention key personal or professional projects briefly, e.g., “an e-commerce app,” “a real-time chat application”].</li>
+  <li>📚 Learning: Always expanding my knowledge base – currently diving into [Current Learning Focus/Technology].</li>
+</ul>
+
+</div>
 <div align="center">
 <!--   <img height="150" src="https://as2.ftcdn.net/v2/jpg/05/65/89/49/1000_F_565894925_2uEeK024wXiD3jJW3kV27Ov6ZiKC9ioi.jpg"  /> -->
   <img height="150" width="150" src="./panda.png"  />
