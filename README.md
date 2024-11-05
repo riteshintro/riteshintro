@@ -12,9 +12,9 @@
 <div>
 <h3 align="left">🛠️ Tech Stack</h3>
 <div>Here's what I primarily work with:
-<ul><li>Languages: [e.g.Javascript, TypeScript]</li>
-  <li>Frameworks: [e.g., React, React Native, Node.js]</li>
-  <li>Tools: [e.g., Git, Docker, CI/CD, VSCode]</li>
+<ul><li>Languages: Javascript, TypeScript</li>
+  <li>Frameworks: React, React Native,Nestjs, Node.js</li>
+  <li>Tools: Git, Docker, CI/CD, VSCode</li>
 </ul>
 </div>
 <div align="left">
