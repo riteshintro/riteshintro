@@ -9,7 +9,7 @@
 </ul>
 
 </div>
-<div><
+<div>
 <h3 align="left">🛠️ Tech Stack</h3>
 <div>Here's what I primarily work with:
 <ul><li>Languages: [e.g., JavaScript, Python, TypeScript]</li>
@@ -35,7 +35,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
           
 </div>
-/div>
+</div>
 <div align="center">
   <h1>🔗 Connect with Me</h1>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
