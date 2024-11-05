@@ -2,7 +2,7 @@
 <div>
   I’m a passionate software developer with a keen interest in crafting clean, efficient, and scalable code. I enjoy working across various technologies and building innovative solutions that solve real-world problems. Here’s a bit about me:<br><br>
   <ul>
-  <li>🧑‍💻 Core Skills: Proficient in [Primary Programming Languages/Technologies], with solid experience in [Frameworks, Libraries, or Tools].</li>
+  <li>🧑‍💻 Core Skills: Proficient in Javascript/Typescript, with solid experience in React, React Native, and Nestjs.</li>
   <li>🚀 Projects: I love contributing to open-source projects and have worked on [mention key personal or professional projects briefly, e.g., “an e-commerce app,” “a real-time chat application”].</li>
   <li>📚 Learning: Always expanding my knowledge base – currently diving into [Current Learning Focus/Technology].</li>
   <li>💡 Hobbies: Besides coding, I enjoy [mention hobbies related to development or other personal interests, e.g., “exploring new tech, reading tech blogs, and learning about AI”].</li>
@@ -12,8 +12,8 @@
 <div>
 <h3 align="left">🛠️ Tech Stack</h3>
 <div>Here's what I primarily work with:
-<ul><li>Languages: [e.g., JavaScript, Python, TypeScript]</li>
-  <li>Frameworks: [e.g., React, Node.js, Django]</li>
+<ul><li>Languages: [e.g.Javascript, TypeScript]</li>
+  <li>Frameworks: [e.g., React, React Native, Node.js]</li>
   <li>Tools: [e.g., Git, Docker, CI/CD, VSCode]</li>
 </ul>
 </div>
